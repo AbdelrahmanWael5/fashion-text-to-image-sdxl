@@ -27,9 +27,13 @@ Instead of relying on manually provided descriptions, captions were automaticall
 The processed caption files are available under:
 
 ```text
-src/preprocessing/
-├── train_captions.jsonl
-└── test_captions.jsonl
+├── data/
+│   ├── train/
+│   │   └── train.jsonl
+│   ├── val/
+│   │   └── val.jsonl
+│   └── test/
+│       └── test.jsonl
 ```
 
 ---
