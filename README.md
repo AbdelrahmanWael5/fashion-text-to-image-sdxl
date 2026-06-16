@@ -149,7 +149,7 @@ fashion-text-to-image-sdxl/
 The repository includes an interactive Streamlit application for real-time image generation.
 
 A demonstration video is available in the corresponding LinkedIn post.
-Link: https://www.linkedin.com/posts/abdelrahman-wael-ai_ai-generativeai-computervision-activity-7472330762009231362-vJJp utm_source=share&utm_medium=member_desktop&rcm=ACoAAESxZ4gBL6KBYIJCpRjAZ_LaewDhyTR2aks
+Link: https://www.linkedin.com/posts/abdelrahman-wael-ai_ai-generativeai-computervision-activity-7472330762009231362-vJJputm_source=share&utm_medium=member_desktop&rcm=ACoAAESxZ4gBL6KBYIJCpRjAZ_LaewDhyTR2aks
 
 ---
 
