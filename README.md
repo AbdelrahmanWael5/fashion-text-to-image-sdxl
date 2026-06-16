@@ -137,10 +137,10 @@ fashion-text-to-image-sdxl/
 ## Example Prompts
 
 * Luxury black leather jacket
-* Oversized streetwear hoodie
+* Oversized hoodie
 * Green denim jacket
-* Formal black blazer
-* Floral summer dress
+* Formal black shirt
+* Floral t-shirt
 
 ---
 
@@ -154,10 +154,8 @@ A demonstration video is available in the corresponding LinkedIn post.
 
 ## Future Improvements
 
-* LoRA-based fine-tuning
 * Training on larger fashion datasets
 * Advanced prompt engineering
-* Quantitative evaluation metrics
 * Model deployment on cloud infrastructure
 
 ---
